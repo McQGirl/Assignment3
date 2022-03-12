@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#fb8c00</color>
+    <color name="colorAccent">#fb8c00</color>
+
+    <color name="purple_200">#AB74E2</color>
+    <color name="purple_700">#6A379C</color>
+    <color name="black">#000000</color>
+    <color name="teal_200">#17D3C8</color>
+#44FF
+    <drawable name="toolbar_bg">#30000000</drawable>
+</resources>

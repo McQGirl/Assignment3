@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/color"
+        android:title="@string/menuitem_color"
+        android:icon="@drawable/palette"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/line_width"
+        android:title="@string/menuitem_line_width"
+        android:icon="@drawable/line_width"
+        app:showAsAction="ifRoom">
+    </item>
+    <item android:id="@+id/save" app:showAsAction="ifRoom"
+        android:icon="@drawable/save"
+        android:titleCondensed="Palette"
+        android:title="Palette"
+        />
+    <item
+        android:id="@+id/print"
+        android:title="@string/menuitem_print"
+        android:icon="@drawable/ic_print"
+        app:showAsAction="ifRoom">
+    </item>
+</menu>
